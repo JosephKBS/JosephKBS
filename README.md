@@ -27,7 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
           <a href="https://linkedin.com/in/joseph-s-609247108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-s-609247108" height="40" width="40" /></a>
-          <a href="https://github.com/JosephKBS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" /></a>
+          
+          <a href="https://github.com/JosephKBS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" /></a>
 </p>
 
 
