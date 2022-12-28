@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="20" height="20"/>
           
 
 
