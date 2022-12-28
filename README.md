@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
           
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">I work as a data analyst at [NYU Langone](https://med.nyu.edu)</h3>
-
+<h3 align="center"> I work as a data analyst at <a href="https://med.nyu.edu">NYU Langone</a></h3>
 
 <h3 align="center">Connect with me:</h3>
 
